@@ -1,0 +1,11 @@
+{
+  "logger": {
+    "express": "dev"
+  },
+  "server": {
+		"port": 8080
+  },
+  "db": {
+    "url": "mongodb://CloudFoundry_dgda2lpd_4p94nv43_btjsuag5:s5UPTR_zs8N5DswW0r-uW8GJX0uMouzZ@ds117495.mlab.com:17495/CloudFoundry_dgda2lpd_4p94nv43"
+  }
+}
